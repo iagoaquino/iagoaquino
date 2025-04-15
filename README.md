@@ -1,4 +1,4 @@
-<h1>FullStack develop</h1>
+<h1>FullStack Develop</h1>
 
 <h3>About Me</h3>
 Hi my name is <i>Iago de Aquino</i> I am a fullstack web developer with one year of experience in developing a IA to optimize industrial production.
@@ -27,7 +27,7 @@ also I have been developing new skills with react, next and nestjs.
   </td>
     <td align="center">
       <h4>Database</h4>
-      <img src="https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000" alt="MySql" width="40" height="40"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40" />
       <img src="https://static-00.iconduck.com/assets.00/postgresql-icon-1987x2048-v2fkmdaw.png" alt="PostgreSQL" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
     </td>
@@ -38,4 +38,18 @@ also I have been developing new skills with react, next and nestjs.
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40" />
     </td>
 </Table>
+
+<h3>Contact Me</h3>
+<div>
+  <a href="mailto:iagodeaquino10@gmail.com"><img align="center" alt="Gmail" height="50" width="50" src="https://img.icons8.com/color/48/gmail-new.png" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/iago-aquino-a380b5235/"><img align="center" alt="Linkedin" height="50" width="50" src="https://img.icons8.com/color/48/linkedin.png" target="_blank"></a> 
+<div>
+
+## **Stats**
+
+<div>
+<a href="https://github.com/iagoaquino">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iagoaquino&layout=compact&langs_count=10&theme=blueberry&hide_progress=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=iagoaquino&show_icons=true&theme=blueberry&include_all_commits=true&hide=contribs"/>
+</div>
 
